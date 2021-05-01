@@ -19,6 +19,8 @@
   Authors:      European Commission, Joint Research Centre (JRC)
                 Andrea Perego (https://github.com/andrea-perego)
 
+  Source code:  https://github.com/SEMICeu/iana-to-rdf
+
 -->
 
 <!--
